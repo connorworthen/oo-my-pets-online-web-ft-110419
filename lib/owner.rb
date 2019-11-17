@@ -62,6 +62,7 @@ class Owner
         pet.mood = 'nervous'
       end
       arr.clear
+      end
     end
   end
 end
